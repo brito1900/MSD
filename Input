@@ -1,0 +1,10 @@
+1   3999  		# N1,N2, Nsteps
+ 1 1    		#  sigmas
+1.0d0  1.0d0 		#  Read(5,*) mass1,mass2
+0.80d0 0.80d0  0.8000 	#  Read(5,*) a11,a12,a22
+0.0d0 1.0d0  1.0d0 	#  Read(5,*) d11,d12,d22
+200    			# Box length
+10000000 		# elastic coll
+50000000 		# Inelastic colls
+ 1   		# kt
+923423		#seed
